@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% include topbar.html class="home" %}
+
+<div class="header">
+    <div class="hero">
+        <div class="container">
+            <h1 class="title">Digital Service Design</h1>
+            <div class="subtitle">& <span class="typed"></span></div>
+        </div>
+        <div class="actions">
+            <img src="/assets/images/arrow.png" class="arrow" />
+            <a href="/contact" class="button"><i class="fa fa-check" aria-hidden="true"></i> <strong>Accepting new projects</strong> for {{site.availability}}</a>
+        </div>
+    </div>
+</div>
+
+<div class="wrapper landing">
+    {{ content }}
+</div>
+
+{% include contact.html %}

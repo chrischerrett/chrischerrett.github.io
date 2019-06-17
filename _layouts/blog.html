@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include topbar.html class="page" %}
+
+<div class="wrapper js-drop pad">
+
+    <div class="panel content">
+        <div class="container">
+
+            <div itemscope itemtype="http://schema.org/BlogPosting" class="grid">
+                <ul class="blog">
+                    {% for post in site.posts %}
+                    <li class="blog-item">
+                        <div class="inner">
+                            <a itemprop="url" href="{{ post.url }}"><img itemprop="image" src="{{ post.image }}"></a>
+                            <h2 itemprop="headline"><a itemprop="url" href="{{ post.url }}">{{ post.title }}</a></h2>
+                            {{ post.excerpt }}
+                        </div>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% include contact.html %}

@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /assets/images/l_a1.png
+Disallow: /assets/images/l_a2.png
+Disallow: /assets/images/l_b1.png
+Disallow: /assets/images/l_c1.png
+Disallow: /assets/images/l_f1.png
+Disallow: /assets/images/l_i1.png
+Disallow: /assets/images/l_j1.png
+Disallow: /assets/images/l_k1.png
+Disallow: /assets/images/l_k2.png
+Disallow: /assets/images/l_p1.png
+Disallow: /assets/images/l_p2.png
+Disallow: /assets/images/l_s1.png
+Disallow: /assets/images/l_s2.png
+Disallow: /assets/images/l_s3.png
+Disallow: /assets/images/l_s4.png

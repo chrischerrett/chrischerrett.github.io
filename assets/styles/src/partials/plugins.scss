@@ -1,0 +1,264 @@
+//typed text
+
+.typed-cursor {
+	opacity: 1;
+	-webkit-animation: blink 0.7s infinite;
+	-moz-animation: blink 0.7s infinite;
+	animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@-webkit-keyframes blink {
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+@-moz-keyframes blink {
+	0% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
+}
+
+//responsive menu
+
+#menu {
+	float:right;
+	width: 35px;
+	height: 35px;
+	position: relative;
+	/* margin: 2px 20px 0 0; */
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-transition: .5s ease-in-out;
+	-moz-transition: .5s ease-in-out;
+	-o-transition: .5s ease-in-out;
+	transition: .5s ease-in-out;
+	cursor: pointer;
+	float: right;
+	margin-top: 23px;
+}
+
+#menu span {
+	display: block;
+	position: absolute;
+	height: 6px;
+	width: 100%;
+	background: #fff;
+	border-radius: 2px;
+	opacity: 1;
+	left: 0;
+	-webkit-transform: rotate(0deg);
+	-moz-transform: rotate(0deg);
+	-o-transform: rotate(0deg);
+	transform: rotate(0deg);
+	-webkit-transition: .25s ease-in-out;
+	-moz-transition: .25s ease-in-out;
+	-o-transition: .25s ease-in-out;
+	transition: .25s ease-in-out;
+}
+
+/* Icon 3 */
+
+#menu span:nth-child(1) {
+  top: 0px;
+}
+
+#menu span:nth-child(2), #menu span:nth-child(3) {
+  top: 12px;
+}
+
+#menu span:nth-child(4) {
+  top: 24px;
+}
+
+#menu.open span:nth-child(1) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+#menu.open span:nth-child(2) {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+#menu.open span:nth-child(3) {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+#menu.open span:nth-child(4) {
+  top: 18px;
+  width: 0%;
+  left: 50%;
+}
+
+//audio player
+
+.audio.green-audio-player {
+	width: 50%;
+	min-width: 250px;
+	max-width: 350px;
+  height: 56px;
+  box-shadow: 0 4px 16px 0 rgba(0, 0, 0, .07);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 24px;
+  padding-right: 24px;
+  border-radius: 4px;
+  user-select: none;
+  -webkit-user-select: none;
+  background-color: #fff;
+	margin:auto;
+
+  .play-pause-btn {
+    display: none;
+    cursor: pointer;
+  }
+  .spinner {
+    width: 18px;
+    height: 18px;
+    background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/loading.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    animation: spin 0.4s linear infinite;
+  }
+  .slider {
+    flex-grow: 1;
+    background-color: #D8D8D8;
+    cursor: pointer;
+    position: relative;
+    .progress {
+      background-color: #44BFA3;
+      border-radius: inherit;
+      position: absolute;
+      pointer-events: none;
+      .pin {
+        height: 16px;
+        width: 16px;
+        border-radius: 8px;
+        background-color: #44BFA3;
+        position: absolute;
+        pointer-events: all;
+        box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.32);
+      }
+    }
+  }
+  .controls {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    color: #55606E;
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 24px;
+    margin-right: 24px;
+    .slider {
+      margin-left: 16px;
+      margin-right: 16px;
+      border-radius: 2px;
+      height: 4px;
+      .progress {
+        width: 0;
+        height: 100%;
+        .pin {
+          right: -8px;
+          top: -6px;
+        }
+      }
+    }
+    span {
+      cursor: default;
+    }
+  }
+  .volume {
+    position: relative;
+    .volume-btn {
+      cursor: pointer;
+      &.open path {
+        fill: #44BFA3;
+      }
+    }
+    .volume-controls {
+      width: 30px;
+      height: 135px;
+      background-color: rgba(0, 0, 0, 0.62);
+      border-radius: 7px;
+      position: absolute;
+      left: -3px;
+      bottom: 52px;
+      flex-direction: column;
+      align-items: center;
+      display: flex;
+      &.hidden {
+        display: none;
+      }
+      .slider {
+        margin-top: 12px;
+        margin-bottom: 12px;
+        width: 6px;
+        border-radius: 3px;
+        .progress {
+          bottom: 0;
+          height: 100%;
+          width: 6px;
+          .pin {
+            left: -5px;
+            top: -8px;
+          }
+        }
+      }
+    }
+  }
+}
+svg {
+  display: block;
+}
+
+@keyframes spin {
+  from {
+    transform: rotateZ(0);
+  }
+  to {
+    transform: rotateZ(1turn);
+  }
+}

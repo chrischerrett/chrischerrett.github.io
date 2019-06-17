@@ -1,0 +1,193 @@
+---
+layout: default
+---
+
+<!--
+<ul class="tabs">
+    <li class="active"><a href="https://cherrett.digital/">Digital Service Design</a></li>
+    <li><a href="https://cherrett.photography/">Photography</a></li>
+</ul>
+<div class="tabs-content">
+-->
+
+{% include topbar.html class="home" %}
+
+<div class="header">
+    <div class="hero">
+        <div class="container">
+            <h1 class="title">Digital Service Design</h1>
+            <h2 class="subtitle">Web, SaaS & <span class="typed"></span></h2>
+        </div>
+        <div class="actions">
+            <img src="/assets/images/arrow.png" class="arrow" />
+            <img src="/assets/images/arrow2.png" class="arrow2" />
+            <a href="/articles/future-fit-pro-zone-award-innovation-software" class="button contrast">
+                See our <strong>award winning</strong> work...</a>
+        </div>
+    </div>
+</div>
+
+<div class="panel services">
+    <div class="container">
+        <div class="col">
+            <div class="inner">
+                <h2><a href="/digital-service-design">Digital Service Design »</a></h2>
+                <p>We're specialists in <a href="/digital-service-design">digital service design</a>, working
+                    alongside
+                    ambitious clients who recognise that web design and development cannot be treated in isolation.
+                    We
+                    cultivate great <a href="/digital-service-design">user experiences</a> to make complex software
+                    systems intuitive. After all "design isn't what it looks like, <a
+                        href="/digital-service-design">design
+                        is how it works</a>".</p>
+            </div>
+        </div>
+        <div class="col">
+            <div class="inner">
+                <h2><a href="/full-stack-development">Software Development »</a></h2>
+                <p>Usually joining projects at the kick-off stage, our user-centric software design process starts
+                    out
+                    with a thorough round of <a href="/digital-service-design">requirements elicitation</a>,
+                    engagement
+                    analysis and interaction design before
+                    heading into <a href="/full-stack-development">development</a> and putting proposals into
+                    practice.</p>
+            </div>
+        </div>
+        <div class="col">
+            <div class="inner">
+                <h2><a href="/contact">Have a project in mind? »</a></h2>
+                <p>Available to consult, advise, and create across the UK. Specialising in digital service design,
+                    websites, web applications and <a
+                        href="/articles/future-fit-pro-zone-award-innovation-software">digital products</a> where the
+                    user experience is
+                    paramount.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="panel quote">
+    <div class="container">
+        <h3>Trusted by</h3>
+        <div class="logos">
+            <img src="/assets/images/l_f1.png" />
+            <img src="/assets/images/l_a2.png" class="larger" />
+            <img src="/assets/images/l_k1.png" class="smaller" />
+            <img src="/assets/images/l_p1.png" />
+            <img src="/assets/images/l_k2.png" />
+            <img src="/assets/images/l_s4.png" />
+            <img src="/assets/images/l_j1.png" class="smaller" />
+            <img src="/assets/images/l_s2.png" />
+            <img src="/assets/images/l_s1.png" />
+            <img src="/assets/images/l_c1.png" />
+            <img src="/assets/images/l_p2.png" class="smaller" />
+            <img src="/assets/images/l_b1.png" />
+            <img src="/assets/images/l_s3.png" class="larger" />
+            <img src="/assets/images/l_a1.png" class="smaller" />
+        </div>
+        <blockquote>"Chris' understanding
+            of our vision paired
+            with his technical ability, attention to detail and creative ideas have allowed us to take the platform way
+            beyond what
+            we had originally intended."</blockquote>
+        <cite><a href="https://futurefit.co.uk">Andrew Moseley<br /><small>Future Fit
+                    Training</small></a></cite>
+        <div class="actions">
+            <a href="/contact" class="button">Get started »</a>
+            <a href="/services" class="button basic">Read more »</a>
+            <img src="/assets/images/arrow2.png" class="arrow" />
+        </div>
+    </div>
+</div>
+
+<div class="panel split">
+    <div class="col left"></div>
+    <div class="col center">
+        <div class="listing">
+            <div class="inner">
+
+                <h4>Recent Projects »</h4>
+
+                <h6><a href="/articles/future-fit-pro-zone-award-innovation-software"">Pro Zone <span class="
+                        type">Digital
+                        Service Design & Development</span></a></h6>
+                <p>The fitness industry's only CIMSPA accredited <a
+                        href="/articles/future-fit-pro-zone-award-innovation-software">online
+                        training platform</a> for continuous education, delivered by Future Fit Training.</p>
+
+                <h6><a href="/articles/digital-transformation-elite-athlete-sports-injury-analysis">CELSPORTA <span
+                            class="type">Digital Service Design & Development</span></a></h6>
+                <p>A next-generation <a
+                        href="/articles/digital-transformation-elite-athlete-sports-injury-analysis">sports
+                        injury analysis</a> platform for elite athletes.</p>
+
+                <h6><a href="/full-stack-development">Speak to a Uni <span class="type">Web Development</span></a></h6>
+                <p>Higher Education website matching undergraduate and postgraduate students with universities and
+                    events.</p>
+
+                <h6><a href="/articles/discover-your-colour-with-pastel-sixteen">Pastel Sixteen <span class="type">Web
+                            Development</span></a></h6>
+                <p>Online store for a bold and exciting <a
+                        href="/articles/discover-your-colour-with-pastel-sixteen">fashion
+                        and lifestyle</a> brand.</p>
+
+                <h6><a href="/digital-service-design">PBSL Group <span class="type">Consultancy & Development</span></a>
+                </h6>
+                <p>Ecommerce application development. Migration planning, deployment strategy and consultancy.</p>
+
+                <h6><a href="/full-stack-development">KTM <span class="type">Web Development</span></a></h6>
+                <p>A website for the world-renowned motorcycle manufacturer, part of a multi-channel interactive
+                    campaign.</p>
+
+                <h4>Articles »</h4>
+                <div itemscope itemtype="http://schema.org/Blog">
+                    {% for post in site.posts limit: 3 %}
+                    <div class="item">
+                        <div class="title"><a itemprop="url" href="{{ post.url }}">{{ post.title }}</a></div>
+                        <div><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"></time></div>
+                    </div>
+                    {% endfor %}
+                </div>
+
+            </div>
+        </div>
+        <div class="latest">
+
+            <div itemscope itemtype="http://schema.org/BlogPosting">
+                {% for post in site.posts limit: 1 %}
+                <div class="inner title">
+                    <h3 itemprop="headline"><a itemprop="url" href="{{ post.url }}">{{ post.title }} »</a></h3>
+                </div>
+
+                <div class="inner preview" itemprop="articleBody description">
+                    {{ post.line_1 }}
+                </div>
+
+                <div class="inner image mockup">
+                    <img itemprop="image" src="/assets/images/mockups/pro_zone/layer_bk.jpg">
+                    <img itemprop="image" src="/assets/images/mockups/pro_zone/layer_1.jpg"
+                        class="mockup-layer mockup-layer-1">
+                    <img itemprop="image" src="/assets/images/mockups/pro_zone/layer_2.png"
+                        class="mockup-layer mockup-layer-2">
+                    <img itemprop="image" src="/assets/images/mockups/pro_zone/layer_3.png"
+                        class="mockup-layer mockup-layer-3">
+                </div>
+
+                <div class="inner preview">
+                    {{ post.line_2 }}
+                    <p class="button-row"><a itemprop="url" href="{{ post.url }}" class="button">Read more »</a></p>
+                </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    </div>
+    <div class="col right"></div>
+</div>
+
+{% include contact.html %}
+
+<!--
+</div>
+-->

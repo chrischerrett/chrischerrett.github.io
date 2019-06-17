@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+author: cherrett.digital
+title: cherrett.digital
+email: hello@cherrett.digital
+description: > # this means to ignore newlines until "baseurl:"
+  Specialising in user experience and digital service design, working with businesses who recognise that design and development cannot be treated in isolation. After all "design isn't what it looks like, design is how it works". Our goal is to make complex systems simple to understand and valuable.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cherrett.digital" # the base hostname & protocol for your site
+twitter_username: chrischerrett
+github_username:  chrischerrett
+availability: Q2 2019
+
+# Build settings
+permalink: /articles/:title
+markdown: kramdown
+exclude: [Gemfile, Gemfile.lock, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, gulpfile.js, package.json, package-lock.json, assets/styles/src/, assets/scripts/src/]
