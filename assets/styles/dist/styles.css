@@ -201,7 +201,7 @@ h3.new-role {
     font-family: "museo-sans", arial, sans-serif; }
     .topbar .logo img {
       float: left;
-      margin: 6px 5px 0 0;
+      margin: 5px 5px 0 0;
       height: 20px; }
     .topbar .logo a {
       color: #fff; }
@@ -370,7 +370,7 @@ h3.new-role {
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5); }
 
 .hero {
-  background: linear-gradient(#334d5c, rgba(51, 77, 92, 0.6)), url("/assets/images/hero/light.jpg");
+  background: linear-gradient(#334d5c, rgba(51, 77, 92, 0.6)), url("/assets/images/hero/studio.jpg");
   background-size: cover;
   background-position: center;
   height: 410px;
