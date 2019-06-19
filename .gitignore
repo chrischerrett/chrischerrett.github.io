@@ -6,3 +6,4 @@ node_modules
 /.sass-cache
 .sass-cache
 /assets/podcasts
+/.idea
