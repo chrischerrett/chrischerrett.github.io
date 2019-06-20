@@ -285,17 +285,20 @@ h3.new-role {
   font-size: 12px;
   text-align: center;
   line-height: 18px;
-  position: relative; }
-  .footer::before {
-    content: "";
-    background: url("/assets/images/stripes.png");
-    background-repeat: repeat;
-    opacity: 0.2;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    position: absolute; }
+  position: relative;
+  /*
+	&::before {
+	  content: "";
+	  background: url('/assets/images/stripes.png');
+		background-repeat: repeat;
+	  opacity: 0.2;
+	  top: 0;
+	  left: 0;
+	  bottom: 0;
+	  right: 0;
+	  position: absolute;
+	}
+	*/ }
   .footer .container {
     padding: 20px 10px 40px; }
   .footer .spacer {
