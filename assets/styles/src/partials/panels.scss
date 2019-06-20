@@ -450,6 +450,9 @@
     background-position: center top;
     color: $white;
     position: relative;
+    margin-top: -3px;
+    z-index: 999;
+
     @media (max-width: $tablet) {
         background-position: right top;
     }
