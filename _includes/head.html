@@ -7,7 +7,7 @@
 	<meta name="description" content="{{ page.excerpt | strip_html | truncate:200 | strip_newlines }}" />
 	<meta name="theme-color" content="#45B29D">
 
-	<link rel="shortcut icon" type="image/png" href="/assets/images/logo.png"/>
+	<link rel="shortcut icon" type="image/png" href="/assets/images/logo.png" />
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" value="summary">
@@ -52,13 +52,10 @@
 	{% endif %}
 
 	<link rel="alternate" type="application/atom+xml" title="cherrett.digital" href="/feed.xml" />
-	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-		integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 	<link rel="stylesheet" href="/assets/styles/dist/styles.min.css?v={{ site.data['hash'] }}&r9">
 
-	<script src="https://use.typekit.net/fvd0ven.js"
-		integrity="sha384-JktHQYJXmyhGw8qvfvCHO6DyWBZ7/109VmpVHeMbtoUw09IquZpmO41UZpKTvejI"
-		crossorigin="anonymous"></script>
+	<script src="https://use.typekit.net/fvd0ven.js"></script>
 
 	{% if page.path contains '_posts' %}
 	<link rel="amphtml" href="https://mercury.postlight.com/amp?url={{site.url}}{{page.url}}">
