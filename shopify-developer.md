@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Shopify Developer
-permalink: /shopify-developer/
+permalink: "/shopify-developer/"
+layout: page
 ---
 
 <div class="panel compare img-3">

@@ -1,5 +1,6 @@
 ---
-layout: blog
 title: Articles
-permalink: /articles/
+permalink: "/articles/"
+layout: blog
 ---
+

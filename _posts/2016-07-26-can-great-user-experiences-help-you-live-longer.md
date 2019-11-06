@@ -1,13 +1,16 @@
 ---
+title: Can great user experiences help you live longer?
+date: 2016-07-26 07:00:00 Z
 layout: article
-title:  "Can great user experiences help you live longer?"
-date:   2016-07-26 08:00:00 +0100
 image: "/assets/images/vitality.jpeg"
 type: article
-excerpt_separator: <!--more-->
-notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/">adido-digital.co.uk</a> on 16th July 2016.
-canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/" />
+excerpt_separator: "<!--more-->"
+notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/">adido-digital.co.uk</a>
+  on 16th July 2016.
+canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/"
+  />
 ---
+
 <p>Digital user experiences aren't just about making websites intuitive and easy to use. Experiences leave an impression on us. They describe an encounter that traverses all aspects of what it means to engage with something, whether that's a business or a product, digitally or otherwise.</p>
 <!--more-->
 <p>Great experiences can have a fundamental affect on our lives, and I'd like to share one with you that's been particularly impressive over the last couple of weeks... and it's <em>not</em> Pokemon Go.</p>

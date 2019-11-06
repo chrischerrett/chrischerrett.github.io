@@ -1,13 +1,16 @@
 ---
+title: Are you conscious of confirmation bias?
+date: 2016-06-12 09:00:00 Z
 layout: article
-title:  "Are you conscious of confirmation bias?"
-date:   2016-06-12 10:00:00 +0100
 image: "/assets/images/berries.jpeg"
 type: article
-excerpt_separator: <!--more-->
-notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/are-you-conscious-of-confirmation-bias/" rel="canonical">adido-digital.co.uk</a> on 2nd June 2016.
-canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/are-you-conscious-of-confirmation-bias/" />
+excerpt_separator: "<!--more-->"
+notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/are-you-conscious-of-confirmation-bias/"
+  rel="canonical">adido-digital.co.uk</a> on 2nd June 2016.
+canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/are-you-conscious-of-confirmation-bias/"
+  />
 ---
+
 <p>If you’re under the impression that you already understand how your customers behave online, or you already know the best way of designing a web page, you're unlikely to ever test that theory (or even recognise that it is just a theory).</p>
 <!--more-->
 <p>We all carry a bias and naturally seek confirmation of what we already believe to be true. So convinced by our own understanding we often miss the opportunity to see the truth.</p>

@@ -1,13 +1,20 @@
 ---
+title: An introduction to Jekyll
+date: 2016-08-01 09:00:00 Z
 layout: article
-title:  "An introduction to Jekyll"
-date:   2016-08-01 10:00:00 +0100
 image: "/assets/images/library.jpg"
 type: article
-excerpt_separator: <!--more-->
-line_1: "<p>A little while back, whilst trundling the interwebs researching this-that-or-the-other, my interest in maintaining a personal blog peaked again.</p>"
-line_2: "<p>I've been through various incarnations throughout the years, swinging violently between constant iteration and refinement to long periods of dormancy and silence. I've been doing a lot more writing &#8212; which I've enjoyed &#8212; so maintaining my own outlet where I could write additional articles was appealing. But to achieve something I was happy with (learing lessons from last time) I'd need to tick off each of the following ...</p>"
+excerpt_separator: "<!--more-->"
+line_1: "<p>A little while back, whilst trundling the interwebs researching this-that-or-the-other,
+  my interest in maintaining a personal blog peaked again.</p>"
+line_2: "<p>I've been through various incarnations throughout the years, swinging
+  violently between constant iteration and refinement to long periods of dormancy
+  and silence. I've been doing a lot more writing &#8212; which I've enjoyed &#8212;
+  so maintaining my own outlet where I could write additional articles was appealing.
+  But to achieve something I was happy with (learing lessons from last time) I'd need
+  to tick off each of the following ...</p>"
 ---
+
 <p>A little while back, whilst trundling the interwebs researching this-that-or-the-other, my interest in maintaining a personal blog peaked again.</p>
 
 <!--more-->

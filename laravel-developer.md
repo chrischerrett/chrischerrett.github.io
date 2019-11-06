@@ -1,7 +1,7 @@
 ---
-layout: page
 title: MODX Developer
-permalink: /laravel-developer/
+permalink: "/laravel-developer/"
+layout: page
 ---
 
 <div class="panel compare img-3">

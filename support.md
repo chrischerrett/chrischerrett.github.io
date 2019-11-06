@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Thank You
-permalink: /support/
+permalink: "/support/"
+layout: page
 ---
 
 <meta http-equiv="refresh" content="0;URL='https://cherrett-digital.atlassian.net/servicedesk/'" /> 

@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Digital Service Design, User Experience Design and Creative Development
-excerpt: Hello! Starting a new project? Sounds like fun. Let's put the user experience at the core!
-permalink: /services/
+permalink: "/services/"
+layout: page
+excerpt: Hello! Starting a new project? Sounds like fun. Let's put the user experience
+  at the core!
 ---
 
 <div class="panel compare">

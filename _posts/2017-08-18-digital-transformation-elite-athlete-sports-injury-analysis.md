@@ -1,13 +1,20 @@
 ---
+title: 'Elite Athlete Exposure, Sports Injury Analysis & Recovery: A Digital Transformation'
+date: 2017-08-18 07:00:00 Z
 layout: article
-title:  "Elite Athlete Exposure, Sports Injury Analysis & Recovery: A Digital Transformation"
-date:   2017-08-18 08:00:00 +0100
 image: "/assets/images/table.jpg"
 type: article
-excerpt_separator: <!--more-->
-line_1: "<p>At the very elite level of professional sport, injury can be hugely damaging to the commercial viability of an athlete, and ultimately their team. Having your star player dedicating their time to the treatment room rather than the field of play is a significant problem.</p>"
-line_2: "<p>Sports science and therapy – in terms of athlete exposure, injury prevention and treatment – is an incredibly advanced and specialised practice, which is why it might surprise you to discover (as it did me) that many of the tools analysts and therapists use to track and treat athletes can be surprisingly cumbersome.</p>"
+excerpt_separator: "<!--more-->"
+line_1: "<p>At the very elite level of professional sport, injury can be hugely damaging
+  to the commercial viability of an athlete, and ultimately their team. Having your
+  star player dedicating their time to the treatment room rather than the field of
+  play is a significant problem.</p>"
+line_2: "<p>Sports science and therapy – in terms of athlete exposure, injury prevention
+  and treatment – is an incredibly advanced and specialised practice, which is why
+  it might surprise you to discover (as it did me) that many of the tools analysts
+  and therapists use to track and treat athletes can be surprisingly cumbersome.</p>"
 ---
+
 We’re all familiar with the huge figures that float around football and other financially lucrative sports like Basketball, Tennis and American Football. <!--more--> The [World’s Highest-Paid Athletes List](https://www.forbes.com/athletes/list/#tab:overall), published by Forbes, calculates the income of superstar's Cristiano Ronaldo and Lionel Messi at well beyond the $80m mark.
 
 Unfortunately money dominates the conversation, often more so than the sport itself. Clearly, figures like these make the headlines because they vastly overshadow the salary that a typical fan would ever earn, distracting from the underlying purpose of the sport.

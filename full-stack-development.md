@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Full Stack Web Developer & Software Engineer
-excerpt: What do we mean by "creative" development? Well, I suppose, we don't just sit in the corner and write code... that would be boring.
-permalink: /full-stack-development/
+permalink: "/full-stack-development/"
+layout: page
+excerpt: What do we mean by "creative" development? Well, I suppose, we don't just
+  sit in the corner and write code... that would be boring.
 ---
 
 <div class="panel compare img-2">

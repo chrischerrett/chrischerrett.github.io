@@ -1,7 +1,7 @@
 ---
-layout: page
 title: MODX Developer
-permalink: /modx-developer/
+permalink: "/modx-developer/"
+layout: page
 ---
 
 <div class="panel compare img-3">

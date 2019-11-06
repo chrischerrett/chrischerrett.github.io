@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Get in Touch
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
 
 <div class="panel compare img-3" style="margin-bottom:-20px">

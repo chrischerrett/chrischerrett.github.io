@@ -1,13 +1,16 @@
 ---
+title: Progressively Enhancing the IoT
+date: 2016-08-02 10:16:00 Z
 layout: article
-title:  "Progressively Enhancing the IoT"
-date:   2016-08-02 11:16:00 +0100
 image: "/assets/images/cat.jpeg"
 type: article
-excerpt_separator: <!--more-->
-notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/progressive-enhancement-more-than-just-web-design/">adido-digital.co.uk</a> on 27th July 2016.
-canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/" />
+excerpt_separator: "<!--more-->"
+notice: This article was originally published on <a href="https://www.adido-digital.co.uk/blog/progressive-enhancement-more-than-just-web-design/">adido-digital.co.uk</a>
+  on 27th July 2016.
+canonical: <link rel="canonical" href="https://www.adido-digital.co.uk/blog/great-user-experiences-help-you-live-longer/"
+  />
 ---
+
 <p>My cat is a relentless moaner, and her body clock is a thing to marvel at.</p>
 <p>6 months ago there wasn't a day that went by when she didn't make it her absolute life ambition to wake me up in the earliest of early hours for food.</p>
 <!--more-->

@@ -1,13 +1,22 @@
 ---
+title: Discover Your Colour
+date: 2017-09-05 07:00:00 Z
 layout: article
-title:  "Discover Your Colour"
-date:   2017-09-05 08:00:00 +0100
 image: "/assets/images/meet.jpg"
 type: article
-excerpt_separator: <!--more-->
-line_1: "<p>\"Discover Your Colour\" is the motto. \"Colour\" being the ultimate word, and for Pastel Sixteen it's all about the colours. Sixteen of them, in fact.</p><p>August saw the launch of <a href=\"https://pastelsixteen.com\">Pastel Sixteen</a>, a brand new fashion and lifestyle brand, who's exciting new website we were delighted to build, designed in collaboration with our friends at <a href=\"https://www.sunjones.uk\">Sun Jones</a>.</p>"
-line_2: "<p>Pastel Sixteen's core colours, each named after a fashion city, represent choice, \"standing out from the usual\". So whether it’s the romantic soul of Paris, the charming nature of Madrid, the aspirations of Los Angeles or the classic London, Pastel Sixteen say you’ll discover a colour that represents you.</p>"
+excerpt_separator: "<!--more-->"
+line_1: <p>"Discover Your Colour" is the motto. "Colour" being the ultimate word,
+  and for Pastel Sixteen it's all about the colours. Sixteen of them, in fact.</p><p>August
+  saw the launch of <a href="https://pastelsixteen.com">Pastel Sixteen</a>, a brand
+  new fashion and lifestyle brand, who's exciting new website we were delighted to
+  build, designed in collaboration with our friends at <a href="https://www.sunjones.uk">Sun
+  Jones</a>.</p>
+line_2: <p>Pastel Sixteen's core colours, each named after a fashion city, represent
+  choice, "standing out from the usual". So whether it’s the romantic soul of Paris,
+  the charming nature of Madrid, the aspirations of Los Angeles or the classic London,
+  Pastel Sixteen say you’ll discover a colour that represents you.</p>
 ---
+
 "Discover Your Colour" is the motto. "Colour" being the ultimate word, and for Pastel Sixteen it's all about the colours. Sixteen of them, in fact.
 
 <!--more-->

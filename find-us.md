@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Find Us
-permalink: /find-us/
+permalink: "/find-us/"
+layout: page
 ---
 
 Here

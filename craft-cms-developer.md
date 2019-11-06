@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Craft CMS Developer
-permalink: /craft-cms-developer/
+permalink: "/craft-cms-developer/"
+layout: page
 ---
 
 <div class="panel compare img-3">

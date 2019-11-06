@@ -1,13 +1,25 @@
 ---
+title: Pro Zone platform recognised with 'Best Innovation' award by ukactive
+date: 2019-01-10 07:00:00 Z
 layout: article
-title:  "Pro Zone platform recognised with 'Best Innovation' award by ukactive"
-date:   2019-01-10 08:00:00 +0100
 image: "/assets/images/anywhere.jpg"
 type: article
-excerpt_separator: <!--more-->
-line_1: "<p>We were delighted to discover that one of our recent projects, Pro Zone, developed for Future Fit Training, has been announced as the winner of the <a href=\"https://www.futurefit.co.uk/fftv/ukactive-training-awards-a-message-from-ollie-bell/\">'Best Innovation' award</a> at the ukactive Active Training awards.</p><p>As the only online accredited training solution for continuing professional development, Pro Zone is designed to meet the training needs of dedicated fitness professionals.</p>"
-line_2: "<p>In order to expand their portfolio of skills and to maintain their CPD accreditation, Pro Zone offers professional trainers access to an online community of personal training experts and business-enhancing information, all from the convenience of their phone, at an affordable price.</p><p>Our team were selected to <a href=\"/articles/future-fit-pro-zone-award-innovation-software\">scope, design and deliver</a> the project, and we were delighted to advance the concept and turn Future Fit's idea into a fully-realised digital service.</p><p>From requirements elicitation and high fidelity wireframing through to software development and deployment, our bespoke cloud solution aimed to serve the product to a wider, more engaged audience.</p>"
+excerpt_separator: "<!--more-->"
+line_1: <p>We were delighted to discover that one of our recent projects, Pro Zone,
+  developed for Future Fit Training, has been announced as the winner of the <a href="https://www.futurefit.co.uk/fftv/ukactive-training-awards-a-message-from-ollie-bell/">'Best
+  Innovation' award</a> at the ukactive Active Training awards.</p><p>As the only
+  online accredited training solution for continuing professional development, Pro
+  Zone is designed to meet the training needs of dedicated fitness professionals.</p>
+line_2: <p>In order to expand their portfolio of skills and to maintain their CPD
+  accreditation, Pro Zone offers professional trainers access to an online community
+  of personal training experts and business-enhancing information, all from the convenience
+  of their phone, at an affordable price.</p><p>Our team were selected to <a href="/articles/future-fit-pro-zone-award-innovation-software">scope,
+  design and deliver</a> the project, and we were delighted to advance the concept
+  and turn Future Fit's idea into a fully-realised digital service.</p><p>From requirements
+  elicitation and high fidelity wireframing through to software development and deployment,
+  our bespoke cloud solution aimed to serve the product to a wider, more engaged audience.</p>
 ---
+
 We were delighted to discover that one of our recent projects, Pro Zone, developed for [Future Fit Training](https://www.futurefit.co.uk/), has been announced as the [winner of the 'Best Innovation' award](https://www.futurefit.co.uk/fftv/ukactive-training-awards-a-message-from-ollie-bell/) at the [ukactive](https://www.ukactive.com/) Active Training awards.
 
 <!--more-->

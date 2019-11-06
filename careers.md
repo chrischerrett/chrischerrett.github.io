@@ -1,7 +1,7 @@
 ---
-layout: careers
 title: Careers
-permalink: /careers/
+permalink: "/careers/"
+layout: careers
 ---
 
 <div class="panel compare img-3">
