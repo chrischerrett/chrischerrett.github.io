@@ -1,7 +1,7 @@
 ---
 title: Careers
 permalink: "/careers/"
-layout: careers
+layout: page
 ---
 
 <div class="panel compare img-3">
