@@ -35,7 +35,7 @@ layout: page
                     <p>Cherrett Digital is an agile, innovative and robust SaaS applications studio with proven, continued success in the health and education sectors. We are based in Bournemouth, Dorset.</p>
                     <p>With some exciting new projects about to begin in partnership with a fantastic national client and industry leader, we are on the lookout for an impressive Web Application Engineer to be part of this exciting journey.</p>
                     <p>This person will have an influential role to play in the continued development and evolution of a commercial SaaS platform, which is about to launch v2 after 4-years of success to date with v1. This product is at the core of some significant new projects for the same client, necessitating more hands on deck!</p>
-                    <p>Our applications solve real problems and automate more processes, with a best-in-class user experience to enable our clients to serve their customers better, deliver on their brand values and enrich the membership experience for the betterment of their sector.</p>
+                    <p>Our applications solve real problems and automate more processes, with a best-in-class user experience to enable our clients to serve their customers better, exceed their values and enrich the membership experience for the betterment of their sector.</p>
                     <p>We're not looking for a generic developer. We're looking for someone who'll work perfectly with designers, developers and expert marketers who encapsulate all of the below. This person is someone who:</p>
                     <p>
                       <ul class="list">
