@@ -58,25 +58,6 @@ layout: page
                 </div>
             </div>
 
-            <div class="col">
-                <h3 class="new-role">User Interface Architect</h3>
-                <p><strong>Register your interest!</strong></p>
-                <div>
-                    <p>Do you have what it takes to <strong>make everyones day a little bit easier</strong>; to make the complex seem simple?</p>
-                    <p>Code is important, but code is invisible. No matter how elegant the code, end users never see it. End users don't interact with code; they engage in a sequence of micro-interactions to <strong>achieve their goals</strong>.</p>
-                    <p>That UI determines how positivly they judge their <a href="/digital-service-design">experience with a website or application</a>, and that's why this role is critical in the pursuit of high-quality software. But you <strong>already knew that</strong>.</p>
-                    <p>Our next User Interface Architect is someone who:
-                      <ul class="list">
-                        <li>Understands and empathise with end users.</li>
-                        <li>Knows how to select the right tools for the job.</li>
-                        <li>Understands how the technology is applied, and that good design is not simply what it looks like; "design is how it works".</li>
-                        <li>Has a creative flair that traverses all layers of the stack.</li>
-                      </ul>
-                    </p>
-                    <p>We don't ask that you know how to use certain software packages. <strong>That's your domain</strong>. All we ask is that you can demonstrate an efficient and valuable route to delivering great user interfaces that our clients (and their customers) love to use every day.</p>
-                </div>
-            </div>
-
         </div>
 
     </div>
