@@ -50,6 +50,7 @@ layout: page
                         <li>Demonstrable experience with Laravel is hugely advantageous (but not essential if well-versed in PHP, MVC frameworks and API development)</li>
                         <li>Container management experience (Kubernetes/Docker)</li>
                         <li>Solid understanding of frontend development practices and modern JavaScript libraries such React or Vue.js.</li>
+                        <li>Familiarity with Node.js and consuming third-party APIs (in this case the Microsoft Dynamics Web API).</li>
                         <li>Exposure to Azure and cloud hosted applications in a Linux-based DevOps-type environment.</li>
                         <li>Experience working in a small team and/or independently from scratch.</li>
                       </ul>
