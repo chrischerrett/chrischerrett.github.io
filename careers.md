@@ -36,7 +36,7 @@ layout: page
                     <p>We're not looking for a generic developer. We're looking for someone who'll work perfectly alongside <strong>a team that encapsulates all of the below</strong>. This person is someone who:</p>
                     <p>
                       <ul class="list">
-                        <li>Remains an avocate for the end-user throughout.</li>
+                        <li>Remains an advocate for the end-user throughout.</li>
                         <li>Has demonstrable care and appreciation for all layers of the stack, with minimal guidance required.</li>
                         <li>Designs and builds for longevity.</li>
                         <li>Sees errors and bugs as a challenge to solve, rather than a sign of defeat.</li>
