@@ -57,7 +57,7 @@ layout: page
                         <li>Comfortable working in a small team and/or independently from scratch.</li>
                       </ul>
                     </p>
-                    <p>It will be hugely advantageous if this person was based in Dorset or Hampshire. But what really matters is the approach you bring to the table. Ultimately, you've got the ingenuity to deliver and make a difference!</p>
+                    <p>It will be hugely advantageous if this person was based in Dorset or Hampshire. But what really matters is the approach you bring. Ultimately, you've got the ingenuity and passwion to deliver and make a difference!</p>
                 </div>
             </div>
 
