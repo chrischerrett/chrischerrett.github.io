@@ -37,11 +37,10 @@ layout: page
                     <p>
                       <ul class="list">
                         <li>Remains an advocate for the end-user throughout.</li>
-                        <li>Has demonstrable care and appreciation for all layers of the stack, with minimal guidance required.</li>
+                        <li>Has demonstrable care and appreciation for all layers of the stack.</li>
                         <li>Designs and builds for longevity.</li>
-                        <li>Sees errors and bugs as a challenge to solve, rather than a sign of defeat.</li>
                         <li>Has an awareness that allows him or her to think beyond the current application.</li>
-                        <li>Loves to bring new ideas to the table and challenge “default thinking”.</li>
+                        <li>Loves to bring new ideas to the table and challenge default thinking.</li>
                       </ul>
                     </p>
                     <p>With regards to specific technical skills, we are looking for someone with...</p>
