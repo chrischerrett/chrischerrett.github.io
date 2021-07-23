@@ -10,24 +10,14 @@ layout: page
         <div class="skew">
       		<div class="col col-1">
                   <div class="over">
-
-                      <h1>Careers</h1>
-
-                      <p>
-                          We're in the market for <strong>inquisitive developers and ambitious self-starters</strong> who want to make a difference in our client's industries. If you’re looking for something new and exciting &#8212; either as a freelancer, or someone looking for a permanent change &#8212; we'd love to hear from you.
-                      </p>
-                      <p>
-                          It’s important to say that we don’t simply want more of what we’ve <em>already</em> got, or more of what we <em>already</em> know. We want to <strong>enhance</strong> the services we offer our clients by bringing ambitious individuals together who offer something new and exciting.
-                      </p>
-                      <p>
-                          If this sounds like you, be sure to <strong>register your interest today</strong> (irrespective of the roles listed below). Don't wait for us to discover you &#8212; come and discover us!
-                      </p>
-
+                      <h1>Software Engineering Careers</h1>
+                      <p>We're in the market for <strong>inquisitive developers and ambitious self-starters</strong> who want to make a difference to our client's industries. If you’re looking for something new and exciting then we'd love to hear from you.</p>
+                      <p>It’s important to say that we don’t simply want more of what we’ve <em>already</em> got, or more of what we <em>already</em> know. We want to <strong>enhance</strong> the services we offer our clients by bringing ambitious individuals together who offer something new and exciting.</p>
+                      <p>If this sounds like you, be sure to <strong>register your interest today</strong> (irrespective of the roles listed below). Don't wait for us to discover you &#8212; come and discover us!</p>
+                      <p>That being said, we are looking to fill <strong>one particular role</strong> at the moment...</p>
                   </div>
       		</div>
-      		<div class="col col-2 collapse">
-
-      		</div>
+      		<div class="col col-2 collapse"></div>
         </div>
     </div>
     <div class="col right"></div>
@@ -40,26 +30,34 @@ layout: page
 
             <div class="col">
 
-                <h3 class="new-role">Solutions Architect</h3>
+                <h3 class="new-role">Web Applications Engineer</h3>
+                <p><strong>Contract (6-12 Months)</strong></p>
                 <div>
+                    <p>This is not a generic job board... and we're not looking for a generic developer. We're looking for someone who'll fit in perfectly with <strong>a team that encapsulates all of the below</strong>. This person is someone who:</p>
                     <p>
-                        We always inform our <a href="/full-stack-development">development</a> process with a <strong>comprehensive specification</strong> from the outset. Our <a href="/digital-service-design">digital service design</a> package ensures that our client's goals are totally aligned with the objectives of the project. It also helps us qualify requirements and ensures we present the correct solution.
+                      <ul class="list">
+                        <li>Remains an avocate for the end-user throughout.</li>
+                        <li>Has demonstrable care and appreciation for all layers of the stack, with minimal guidance required.</li>
+                        <li>Designs and builds for longevity.</li>
+                        <li>Sees errors and bugs as a challenge to solve, rather than a sign of defeat.</li>
+                        <li>Has an awareness that allows him or her to think beyond the current application.</li>
+                        <li>Loves to bring new ideas to the table and challenge “default thinking”.</li>
+                      </ul>
                     </p>
+                    <p>With regards to specific technical skills, we are looking for someone with...</p>
                     <p>
-                        But come on... <strong>we didn't need to tell you that</strong>, because you're the one who demonstrates a passion to take ideas and run with it; exploring the problem and delivering a fully-fledged specification that describes the solution. One that's both <strong>client-friendly</strong> and <strong>valuable to developers</strong>.
+                      <ul class="list">
+                        <li>Demonstrable experience with Laravel is hugely advantageous (but not essential if well-versed in PHP, MVC frameworks and API development)</li>
+                        <li>Solid understanding of frontend development practices and modern JavaScript libraries such React or Vue.js.</li>
+                        <li>Experience using Node.JS and the Express framework is also useful!</li>
+                        <li>Exposure to Azure and Linux in a DevOps-type environment.</li>
+                      </ul>
                     </p>
-                    <p>
-                        If you've been a developer for a while but you're looking to step back from the day-to-day code and put your experience into designing the solution, rather than implementing it, then we'd love to hear from you.
-                    </p>
-                    <p>
-                        However, saying that, this role could easily be combined with the <strong>Web Applications Developer</strong>'s duties too. It really depends how involved you want to be in either phase. But you don't need to decide that now... all you need to decide is whether to <a href="#apply">contact us</a> today.
-                    </p>
+                    <p>But what <em>really</em> matters is what you bring, not what we do already. Ultimately, you've got the ingenuity to pick it up and role with it!</p>
                 </div>
-
             </div>
 
             <div class="col">
-
                 <h3 class="new-role">User Interface Architect</h3>
                 <div>
                     <p>Do you have what it takes to <strong>make everyones day a little bit easier</strong>; to make the complex seem simple?</p>
@@ -75,47 +73,6 @@ layout: page
                     </p>
                     <p>We don't ask that you know how to use certain software packages. <strong>That's your domain</strong>. All we ask is that you can demonstrate an efficient and valuable route to delivering great user interfaces that our clients (and their customers) love to use every day.</p>
                 </div>
-
-            </div>
-
-        </div>
-
-        <div class="cols">
-
-            <div class="col">
-
-                <h3 class="new-role">Web Application Developer</h3>
-                <div>
-                    <p>
-                        This is not a generic job board... and we're not looking for a generic developer. We're looking for someone who'll fit in perfectly with <strong>a team that encapsulates all of the above</strong> (and all of the below). Our next Web Applications Developer is someone who:
-                    </p>
-                    <p>
-                      <ul class="list">
-                        <li>Remains an avocate for the end-user throughout.</li>
-                        <li>Has demonstrable care and appreciation for all layers of the stack, with minimal guidance required.</li>
-                        <li>Designs and builds for longevity.</li>
-                        <li>Sees errors and bugs as a challenge to solve, rather than a sign of defeat.</li>
-                        <li>Has an awareness that allows him or her to think beyond the current application.</li>
-                        <li>Loves to bring new ideas to the table and challenge “default thinking”.</li>
-                      </ul>
-                    </p>
-                    <p>
-                        With regards to specific technical skills, we are looking for someone with...
-                    </p>
-                    <p>
-                      <ul class="list">
-                        <li>3+ years’ experience in frontend and backend development.</li>
-                        <li>Expertise in object-oriented programming and some experience with open source MVC frameworks, such as Laravel.</li>
-                        <li>Solid understanding of frontend development practices and JavaScript frameworks, such as jQuery and Vue.js.</li>
-                        <li>Some experience with CMS systems and packages.</li>
-                        <li>Some experience with Linux in a DevOps environment.</li>
-                      </ul>
-                    </p>
-                    <p>
-                        But what <em>really</em> matters is what you bring, not what we do already. You've got the skills to role with it!
-                    </p>
-                </div>
-
             </div>
 
         </div>
