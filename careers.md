@@ -30,7 +30,7 @@ layout: page
 
             <div class="col">
                 <h3 class="new-role">Web Applications Engineer</h3>
-                <p><strong>Contract (6 months) &#8226; Outside IR35 &#8226; Rate: Open / DOE</strong></p>
+                <p><strong>Contract (12-months) &#8226; Outside IR35 &#8226; Rate: Open / DOE</strong></p>
                 <div>
                     <p>Cherrett Digital is an agile, innovative and robust SaaS applications studio with proven, continued success in the health and education sectors. We are based in Bournemouth, Dorset.</p>
                     <p>With some exciting new projects about to begin in partnership with a fantastic national client and industry leader, we are on the lookout for an impressive Web Application Engineer to be part of this exciting journey.</p>
