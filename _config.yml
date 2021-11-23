@@ -13,14 +13,12 @@ email: hello@cherrett.digital
 description: 'Specialising in user experience and digital service design, working
   with businesses who recognise that design and development cannot be treated in isolation.
   After all "design isn''t what it looks like, design is how it works". Our goal is
-  to make complex systems simple to understand and valuable.
-
-'
+  to make complex systems simple to understand and valuable.'
 baseurl: ''
 url: https://cherrett.digital
 twitter_username: chrischerrett
 github_username: chrischerrett
-availability: Q2 2019
+availability: Q1 2022
 permalink: "/articles/:title"
 markdown: kramdown
 exclude:
