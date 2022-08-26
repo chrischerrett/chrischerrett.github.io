@@ -60,8 +60,5 @@ layout: page
                     <p>It will be hugely advantageous if this person was based in Dorset or Hampshire. But what really matters is the approach you bring. Ultimately, you've got the ingenuity and passion to deliver and make a difference!</p>
                 </div>
             </div>
-
         </div>
-
-    </div>
 </div>
