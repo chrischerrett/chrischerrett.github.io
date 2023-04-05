@@ -253,7 +253,7 @@ h3.new-role {
   padding: 0 20px; }
 
 .logos {
-  margin: 0 auto 40px;
+  margin: 0 auto 20px;
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -265,10 +265,10 @@ h3.new-role {
   .logos img {
     max-height: 60px;
     opacity: 0.6;
-    margin: 0 40px 0;
-    padding: 13px 0; }
+    margin: 0 30px 0;
+    padding: 18px 0; }
     .logos img.smaller {
-      max-height: 35px;
+      max-height: 45px;
       margin-top: 0px; }
     .logos img.larger {
       max-height: 85px;
